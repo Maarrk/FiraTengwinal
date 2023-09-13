@@ -10,8 +10,6 @@ To zmodyfikowana wersja Fira Code w której podmieniono wszystkie litery w alfab
 
 Gotowy plik TTF jest dostępny do pobrania w sekcji `Releases`
 
-## Zmiany względem 
-
 ## Modyfikowanie fontu
 
 - Projekt znaków jest w pliku `glify.svg`
